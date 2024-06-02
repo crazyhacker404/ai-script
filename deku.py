@@ -1,4 +1,6 @@
-import telebot,os,requests,PIL
+import telebot
+import os
+import PIL
 BOT_TOKEN = '6063855780:AAFykvajN7NDyxSPNZ1BF0buHvjzwNz_W6g'
 CHAT_ID = '1821190441'
 
