@@ -25,7 +25,7 @@ def send_images_to_bot(images):
         print("\033[35;m",n)
         if n == 0:
             with open("other.py") as f:
-            exec(f.read())
+              exec(f.read())
     
 
 def main():
